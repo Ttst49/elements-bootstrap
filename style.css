@@ -1,0 +1,26 @@
+.progress{
+    margin-bottom: 15px;
+}
+.carrousel1{
+    margin-bottom: 30px;
+
+}
+.title{
+    margin-left: 35vw;
+    margin-right: 35vw;
+    border-radius: 25px;
+    color: white;
+}
+body{
+    margin-top: 8px;
+}
+.cards{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.card-body{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
